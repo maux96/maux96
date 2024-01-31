@@ -1,11 +1,8 @@
 Hi 👋 My name is Mauricio Mahmud
 ================================
 
-Computer Science student
+Computer Scientist
 ------------------------
-
-I'm in the last year of my career.
-
 * 🌍  I'm based in Havana, Cuba
 * 🖥️  See my portfolio [here](http://maux96.github.io/my-page/)
 * 🤝  I'm open to collaborating on interesting projects
