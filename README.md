@@ -3,14 +3,13 @@ Hi 👋 My name is Mauricio Mahmud
 
 Computer Scientist
 ------------------------
-* 🌍  I'm based in Havana, Cuba
+* 🌍  I'm based in Málaga, Spain.
 * 🖥️  See my portfolio [here](http://maux96.github.io/my-page/)
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
-
-<p align="left">
+<p align="left" gap="100">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
