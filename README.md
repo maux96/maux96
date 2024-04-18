@@ -4,7 +4,7 @@ Hi 👋 My name is Mauricio Mahmud
 Computer Scientist
 ------------------------
 * 🌍  I'm based in Málaga, Spain.
-* 🖥️  See my portfolio [here](http://maux96.github.io/my-page/)
+* 🖥️  See my portfolio [here](http://maux96.github.io/)
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
