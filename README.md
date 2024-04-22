@@ -5,6 +5,7 @@ Computer Scientist
 ------------------------
 * 🌍  I'm based in Málaga, Spain.
 * 🖥️  See my portfolio [here](http://maux96.github.io/)
+* 📋  My CV [here](https://drive.google.com/file/d/1S4es6okjbK9onXTjg9seji9N-_dCdl9G/view?usp=sharing)
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
