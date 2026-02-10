@@ -39,7 +39,6 @@ Hi 👋 My name is Mauricio Mahmud
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 </p>
 
-![Lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=maux96&hide=css,html&layout=compact&theme=vision-friendly-dark)
 
 ## Socials
 
