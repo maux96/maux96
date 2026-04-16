@@ -5,7 +5,7 @@ Hi 👋 My name is Mauricio Mahmud
 * 💻  Software Developer | Fullstack Developer
 * 👨‍🎓  Computer Scientist from Havana University 
 * 🖥️  See my portfolio [here](http://maux96.github.io/)
-* 📋  My CV [here](https://drive.google.com/file/d/1S4es6okjbK9onXTjg9seji9N-_dCdl9G/view?usp=sharing)
+* 📋  My CV [here](https://drive.google.com/file/d/1Tv9PHriI0pH22kutiX0B1EAczJ_-nZxJ/view?usp=sharing)
 * 🤝  I'm open to collaborating on interesting projects
 
 
